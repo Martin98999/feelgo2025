@@ -95,3 +95,5 @@ Malé gesto, veľký význam. Nech farby hovoria za teba."
     </main>
   );
 }
+npm install
+npm run dev
